@@ -22,4 +22,4 @@ Excel, Power Query
 	•	Focus on Q4 as the key revenue period
 
 📂 Files
-	•	Presentation.pptx – Full analysis 
+	•	Presentation.pdf– Full analysis 
