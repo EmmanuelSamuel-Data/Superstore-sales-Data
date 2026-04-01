@@ -14,7 +14,7 @@ This project featured a 3-page interactive dashboard:
 **Page 1: PRODUCT PERFORMANCE OVERVIEW**
 
 
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard_1.png)
 
 -Total aales/ Total profit / Avg delivery day
 -Product Category with most sales
@@ -24,14 +24,14 @@ This project featured a 3-page interactive dashboard:
 
  **Page 2: SHIPMENT MOOD EFFICIENCY**
 
- ![Dashbord](Dashbord 2.png)
+ ![Dashbord](Dashbord_2.png)
 
  -Shipment mood efficiency
  -Most used shipment mood
 
 **Page 3: SEGMEMTS PERFORMANCE**
 
- ![Dashboard](Dashboard 3.png)
+ ![Dashboard](Dashboard_3.png)
 
  -Segments performance in regions 
  -Segments sales trend by Qtr
