@@ -8,6 +8,34 @@ Analyzed Superstore sales data to evaluate product performance, customer behavio
 Tools
 Excel, Power Query
 
+📊 Dashboard Preview
+This project featured a 3-page interactive dashboard:
+
+**Page 1: PRODUCT PERFORMANCE OVERVIEW**
+
+
+![Dashboard](Dashboard 1.png)
+
+-Total aales/ Total profit / Avg delivery day
+-Product Category with most sales
+-Performance accurracy 
+-Product category with most loss
+-Sales trend over time
+
+ **Page 2: SHIPMENT MOOD EFFICIENCY**
+
+ ![Dashbord](Dashbord 2.png)
+
+ -Shipment mood efficiency
+ -Most used shipment mood
+
+**Page 3: SEGMEMTS PERFORMANCE**
+
+ ![Dashboard](Dashboard 3.png)
+
+ -Segments performance in regions 
+ -Segments sales trend by Qtr
+
 📊 Key Insights
 	•	Technology category generated the highest sales but underperformed in profit
 	•	Overall profits were lower than expected across categories
