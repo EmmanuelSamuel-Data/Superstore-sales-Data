@@ -1,11 +1,10 @@
 **🛒 Superstore Sales Analysis**
 
-📌 Overview
+**📌 Overview**
 
 Analyzed Superstore sales data to evaluate product performance, customer behavior, and sales trends, with the goal of improving business decisions.
 
-🛠 
-Tools
+**🛠 Tools**
 * Excel
 * Power Query
 
@@ -18,7 +17,7 @@ This project featured a 3-page interactive dashboard:
 
 ![Dashboard](Dashboard_1.png)
 
-* Total aales/ Total profit / Avg delivery day
+* Total sales/ Total profit / Avg delivery day
 * Product Category with most sales
 * Performance accurracy 
 * Product category with most loss
@@ -38,18 +37,18 @@ This project featured a 3-page interactive dashboard:
  * Segments performance in regions 
  * Segments sales trend by Qtr
 
-📊 Key Insights
-	•	Technology category generated the highest sales but underperformed in profit
-	•	Overall profits were lower than expected across categories
-	•	Sales show strong growth over time, peaking in Q4 and dipping in Q1
-	•	Standard shipping is most used, while same-day delivery is fastest
-	•	Consumer segment leads sales; Home Office underperforms
+**📊 Key Insights**
+	* Technology category generated the highest sales but underperformed in profit
+	* Overall profits were lower than expected across categories
+	* Sales show strong growth over time, peaking in Q4 and dipping in Q1
+	* Standard shipping is most used, while same-day delivery is fastest
+	* Consumer segment leads sales; Home Office underperforms
 
-💡 Recommendations
-	•	Optimize pricing and discount strategies
-	•	Improve cost efficiency to boost profitability
-	•	Increase marketing for underperforming segments
-	•	Focus on Q4 as the key revenue period
+**💡 Recommendations**
+	* Optimize pricing and discount strategies
+	* Improve cost efficiency to boost profitability
+	* Increase marketing for underperforming segments
+	* Focus on Q4 as the key revenue period
 
-📂 Files
-	•	Presentation.pdf– Full analysis 
+**📂 Files**
+	* Presentation.pdf– Full analysis 
