@@ -24,7 +24,7 @@ This project featured a 3-page interactive dashboard:
 
  **Page 2: SHIPMENT MOOD EFFICIENCY**
 
- ![Dashbord](Dashbord_2.png)
+ ![Dashbord](Dashboard_2.png)
 
  -Shipment mood efficiency
  -Most used shipment mood
